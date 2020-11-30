@@ -119,6 +119,8 @@ function draw() {
   imageMode(CENTER);
   image(polygonImage, polygonObject.position.x, polygonObject.position.y, 55, 55);
 
+  slingShot.display();
+
   drawSprites();
 }
 
