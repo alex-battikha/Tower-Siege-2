@@ -21,7 +21,7 @@ var slingShot;
 
 function preload() {
   polygonImage = loadImage("sprites/polygon.png");
-  backgroundImage = loadImage("sprites/background.png");
+  backgroundImage = loadImage("sprites/background.jpg");
 }
 
 function setup() {
